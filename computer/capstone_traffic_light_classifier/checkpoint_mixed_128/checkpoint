@@ -1,0 +1,6 @@
+model_checkpoint_path: "TLC_epoch_58.ckpt"
+all_model_checkpoint_paths: "TLC_epoch_54.ckpt"
+all_model_checkpoint_paths: "TLC_epoch_55.ckpt"
+all_model_checkpoint_paths: "TLC_epoch_56.ckpt"
+all_model_checkpoint_paths: "TLC_epoch_57.ckpt"
+all_model_checkpoint_paths: "TLC_epoch_58.ckpt"
